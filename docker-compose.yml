@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  api-utility-fe:
+    container_name: api-utility-fe
+    restart: always
+    build: ./src/GestioneSagre.Utility.Frontend/Dockerfile

@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="NET6CustomLibrary" Version="1.0.134" />
+        <PackageReference Include="NET6CustomLibrary" Version="1.0.178" />
     </ItemGroup>
-
 </Project>
